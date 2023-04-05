@@ -1,0 +1,823 @@
+1/04/2023 4:58:13 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+1/04/2023 1:10:36 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/04/2023 1:07:10 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/04/2023 1:06:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/04/2023 1:06:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/04/2023 12:14:14 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/04/2023 12:11:48 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/04/2023 12:11:25 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/04/2023 12:10:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+31/03/2023 11:11:02 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+31/03/2023 11:08:59 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+31/03/2023 11:08:36 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+31/03/2023 11:07:58 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+31/03/2023 10:03:42 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+31/03/2023 10:01:40 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+31/03/2023 10:01:20 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+31/03/2023 10:00:42 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+31/03/2023 9:15:17 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+31/03/2023 9:13:41 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+31/03/2023 9:13:22 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+31/03/2023 9:12:46 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+31/03/2023 9:09:40 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+31/03/2023 5:01:07 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+31/03/2023 3:05:57 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+31/03/2023 3:03:29 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+31/03/2023 3:03:05 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+31/03/2023 3:02:24 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+31/03/2023 1:11:55 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+31/03/2023 1:09:12 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+31/03/2023 1:08:51 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+31/03/2023 1:08:13 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+31/03/2023 12:10:56 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+31/03/2023 12:09:14 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+31/03/2023 12:08:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+31/03/2023 12:08:18 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+30/03/2023 11:06:27 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+30/03/2023 11:04:11 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+30/03/2023 11:03:50 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+30/03/2023 11:03:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+30/03/2023 10:10:12 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+30/03/2023 10:08:14 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+30/03/2023 10:07:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+30/03/2023 10:07:10 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+30/03/2023 9:21:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+30/03/2023 9:19:55 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+30/03/2023 9:19:34 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+30/03/2023 9:18:53 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+30/03/2023 9:16:32 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+30/03/2023 4:58:19 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+30/03/2023 3:15:12 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+30/03/2023 3:12:29 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+30/03/2023 3:12:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+30/03/2023 3:11:25 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+30/03/2023 1:15:21 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+30/03/2023 1:13:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+30/03/2023 1:13:31 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+30/03/2023 1:13:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+30/03/2023 12:06:19 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+30/03/2023 12:04:24 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+30/03/2023 12:04:05 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+30/03/2023 12:03:32 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+29/03/2023 11:02:58 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+29/03/2023 11:01:17 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+29/03/2023 11:00:56 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+29/03/2023 11:00:22 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+29/03/2023 10:03:08 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+29/03/2023 10:01:33 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+29/03/2023 10:01:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+29/03/2023 10:00:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+29/03/2023 9:18:59 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+29/03/2023 9:17:28 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+29/03/2023 9:17:10 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+29/03/2023 9:16:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+29/03/2023 9:12:20 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+29/03/2023 4:58:50 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+29/03/2023 3:12:02 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+29/03/2023 3:10:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+29/03/2023 3:10:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+29/03/2023 3:09:25 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+29/03/2023 2:08:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+29/03/2023 2:08:03 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+29/03/2023 2:07:21 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+29/03/2023 1:03:35 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+29/03/2023 1:02:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+29/03/2023 1:01:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+29/03/2023 1:01:25 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+29/03/2023 12:10:37 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+29/03/2023 12:08:22 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+29/03/2023 12:07:58 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+29/03/2023 12:07:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/03/2023 11:08:50 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+28/03/2023 11:06:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/03/2023 11:06:27 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/03/2023 11:05:29 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/03/2023 10:09:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+28/03/2023 10:07:33 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/03/2023 10:07:11 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/03/2023 10:06:32 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/03/2023 9:13:30 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+28/03/2023 9:12:03 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/03/2023 9:11:43 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/03/2023 9:11:10 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/03/2023 9:07:29 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+28/03/2023 4:57:56 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+28/03/2023 2:13:15 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+28/03/2023 2:11:31 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/03/2023 2:11:09 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/03/2023 2:10:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/03/2023 1:14:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/03/2023 1:14:07 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/03/2023 1:13:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/03/2023 12:12:27 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+28/03/2023 12:10:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/03/2023 12:10:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/03/2023 12:09:24 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+27/03/2023 11:21:22 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+27/03/2023 11:19:04 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+27/03/2023 11:18:40 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+27/03/2023 11:17:57 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+27/03/2023 10:08:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+27/03/2023 10:06:53 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+27/03/2023 10:06:30 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+27/03/2023 10:05:52 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+27/03/2023 9:22:19 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+27/03/2023 9:20:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+27/03/2023 9:20:16 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+27/03/2023 9:19:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+27/03/2023 9:15:22 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+27/03/2023 4:58:01 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+27/03/2023 3:06:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+27/03/2023 3:06:32 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+27/03/2023 3:05:56 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+27/03/2023 2:09:13 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+27/03/2023 2:08:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+27/03/2023 2:07:24 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+27/03/2023 1:34:59 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+27/03/2023 1:34:37 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+27/03/2023 1:34:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+26/03/2023 10:13:20 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+26/03/2023 10:11:28 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+26/03/2023 10:11:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+26/03/2023 10:10:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+26/03/2023 9:11:56 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+26/03/2023 9:10:15 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+26/03/2023 9:09:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+26/03/2023 9:09:15 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+26/03/2023 8:08:27 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+26/03/2023 8:06:52 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+26/03/2023 8:06:33 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+26/03/2023 8:05:57 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+26/03/2023 7:54:19 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+26/03/2023 5:01:55 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+26/03/2023 12:11:48 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+26/03/2023 12:11:27 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+26/03/2023 12:10:47 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+25/03/2023 11:35:23 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+25/03/2023 11:03:22 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+25/03/2023 11:02:31 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+25/03/2023 11:00:45 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+25/03/2023 10:09:50 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+25/03/2023 10:09:31 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+25/03/2023 10:08:59 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+25/03/2023 9:09:03 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+25/03/2023 9:06:58 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+25/03/2023 9:06:36 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+25/03/2023 9:05:59 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+25/03/2023 8:39:02 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+25/03/2023 8:37:38 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+25/03/2023 8:09:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+25/03/2023 8:08:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+25/03/2023 8:07:53 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+25/03/2023 8:07:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+25/03/2023 8:02:40 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+25/03/2023 4:58:29 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+25/03/2023 3:18:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+25/03/2023 3:15:48 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+25/03/2023 3:15:27 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+25/03/2023 3:14:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+25/03/2023 2:10:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+25/03/2023 2:09:11 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+25/03/2023 2:08:51 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+25/03/2023 2:08:19 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+24/03/2023 11:06:34 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+24/03/2023 11:04:18 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+24/03/2023 11:03:56 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+24/03/2023 11:03:18 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+24/03/2023 10:06:01 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+24/03/2023 10:04:07 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+24/03/2023 10:03:42 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+24/03/2023 10:02:06 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+24/03/2023 9:23:31 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+24/03/2023 9:21:40 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+24/03/2023 9:21:19 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+24/03/2023 9:20:40 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+24/03/2023 9:16:22 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+24/03/2023 4:57:09 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+24/03/2023 2:10:41 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+24/03/2023 2:08:57 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+24/03/2023 2:08:34 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+24/03/2023 2:07:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+24/03/2023 1:16:45 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+24/03/2023 1:14:59 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+24/03/2023 1:14:36 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+24/03/2023 1:13:57 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+24/03/2023 12:07:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+24/03/2023 12:05:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+24/03/2023 12:05:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+24/03/2023 12:04:44 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+23/03/2023 11:09:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+23/03/2023 11:05:40 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+23/03/2023 11:05:17 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+23/03/2023 11:04:36 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+23/03/2023 10:06:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+23/03/2023 10:04:07 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+23/03/2023 10:03:46 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+23/03/2023 10:03:09 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+23/03/2023 9:11:45 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+23/03/2023 9:10:10 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+23/03/2023 9:09:50 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+23/03/2023 9:08:55 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+23/03/2023 9:03:38 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+23/03/2023 4:58:39 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+23/03/2023 4:23:36 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+23/03/2023 4:21:42 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+23/03/2023 4:21:17 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+23/03/2023 4:20:31 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+23/03/2023 3:08:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+23/03/2023 3:05:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+23/03/2023 3:05:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+23/03/2023 3:04:42 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+23/03/2023 2:07:56 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+23/03/2023 2:05:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+23/03/2023 2:05:29 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+23/03/2023 2:04:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+23/03/2023 1:14:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+23/03/2023 1:13:43 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+23/03/2023 1:13:11 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+23/03/2023 12:10:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+23/03/2023 12:08:58 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+23/03/2023 12:08:40 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+23/03/2023 12:08:10 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+22/03/2023 11:16:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+22/03/2023 11:15:04 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+22/03/2023 11:14:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+22/03/2023 11:14:10 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+22/03/2023 10:10:07 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+22/03/2023 10:07:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+22/03/2023 10:07:24 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+22/03/2023 10:06:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+22/03/2023 9:16:09 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+22/03/2023 9:14:33 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+22/03/2023 9:14:10 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+22/03/2023 9:13:25 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+22/03/2023 9:08:48 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+22/03/2023 4:59:21 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+22/03/2023 3:13:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+22/03/2023 3:10:59 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+22/03/2023 3:10:34 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+22/03/2023 3:09:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+22/03/2023 2:09:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+22/03/2023 2:07:53 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+22/03/2023 2:07:34 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+22/03/2023 2:07:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+22/03/2023 1:13:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+22/03/2023 1:11:47 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+22/03/2023 1:11:25 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+22/03/2023 1:10:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+22/03/2023 12:04:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+22/03/2023 12:03:19 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+22/03/2023 12:02:58 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+22/03/2023 12:02:22 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+21/03/2023 11:08:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+21/03/2023 11:06:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+21/03/2023 11:06:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+21/03/2023 11:05:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+21/03/2023 10:07:10 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+21/03/2023 10:04:41 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+21/03/2023 10:04:20 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+21/03/2023 10:03:45 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+21/03/2023 9:10:27 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+21/03/2023 9:08:45 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+21/03/2023 9:08:24 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+21/03/2023 9:07:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+21/03/2023 9:03:50 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+21/03/2023 5:01:15 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+21/03/2023 1:11:41 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+21/03/2023 1:10:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+21/03/2023 1:09:40 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+21/03/2023 1:09:05 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+20/03/2023 11:39:16 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+20/03/2023 11:37:50 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+20/03/2023 11:19:34 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+20/03/2023 11:19:14 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+20/03/2023 10:15:17 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+20/03/2023 10:13:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+20/03/2023 10:13:17 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+20/03/2023 10:12:43 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+20/03/2023 9:19:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+20/03/2023 9:17:45 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+20/03/2023 9:17:20 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+20/03/2023 9:16:41 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+20/03/2023 9:11:24 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+20/03/2023 5:01:23 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+20/03/2023 2:13:08 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+20/03/2023 2:11:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+20/03/2023 2:11:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+20/03/2023 2:10:22 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+20/03/2023 1:03:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+20/03/2023 1:03:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+20/03/2023 1:02:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+19/03/2023 11:31:51 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+19/03/2023 11:30:10 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+19/03/2023 11:03:09 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+19/03/2023 11:02:48 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+19/03/2023 11:02:10 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+19/03/2023 10:13:25 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+19/03/2023 10:13:02 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+19/03/2023 10:11:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+19/03/2023 9:09:30 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+19/03/2023 9:07:47 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+19/03/2023 9:07:25 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+19/03/2023 9:06:48 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+19/03/2023 8:11:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+19/03/2023 8:10:00 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+19/03/2023 8:09:40 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+19/03/2023 8:08:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+19/03/2023 8:04:04 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+19/03/2023 4:58:21 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+19/03/2023 3:07:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+19/03/2023 3:04:58 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+19/03/2023 3:04:35 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+19/03/2023 3:03:57 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+19/03/2023 2:05:28 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+19/03/2023 2:05:03 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+19/03/2023 2:04:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+19/03/2023 1:12:12 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+19/03/2023 1:10:35 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+19/03/2023 1:10:15 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+19/03/2023 1:09:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+18/03/2023 11:11:12 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+18/03/2023 11:11:08 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+18/03/2023 11:10:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+18/03/2023 11:10:01 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+18/03/2023 10:11:47 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+18/03/2023 10:09:24 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+18/03/2023 10:09:00 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+18/03/2023 10:07:46 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+18/03/2023 9:19:02 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+18/03/2023 9:17:06 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+18/03/2023 9:16:42 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+18/03/2023 9:16:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+18/03/2023 8:15:02 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+18/03/2023 8:12:20 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+18/03/2023 8:11:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+18/03/2023 8:11:02 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+18/03/2023 8:06:44 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+17/03/2023 5:00:31 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+17/03/2023 3:11:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+17/03/2023 3:08:35 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+17/03/2023 3:08:12 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+17/03/2023 3:07:32 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+17/03/2023 2:10:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+17/03/2023 2:08:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+17/03/2023 2:08:05 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+17/03/2023 2:07:22 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+17/03/2023 1:10:29 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+17/03/2023 1:08:44 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+17/03/2023 1:08:21 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+17/03/2023 1:07:45 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+17/03/2023 12:00:13 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+16/03/2023 11:58:30 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+16/03/2023 11:58:07 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+16/03/2023 11:57:32 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+16/03/2023 11:11:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+16/03/2023 11:09:11 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+16/03/2023 11:08:31 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+16/03/2023 11:07:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+16/03/2023 10:11:26 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+16/03/2023 10:09:03 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+16/03/2023 10:08:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+16/03/2023 10:07:32 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+16/03/2023 9:13:15 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+16/03/2023 9:11:31 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+16/03/2023 9:11:07 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+16/03/2023 9:09:50 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+16/03/2023 8:59:40 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+16/03/2023 4:59:02 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+16/03/2023 3:07:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+16/03/2023 3:07:02 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+16/03/2023 3:05:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+16/03/2023 2:10:11 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+16/03/2023 2:08:35 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+16/03/2023 2:08:14 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+16/03/2023 2:07:40 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+16/03/2023 1:06:57 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+16/03/2023 1:05:20 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+16/03/2023 1:04:59 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+16/03/2023 1:04:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+16/03/2023 12:15:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+16/03/2023 12:13:19 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+16/03/2023 12:12:56 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+16/03/2023 12:12:12 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+15/03/2023 11:10:46 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+15/03/2023 11:07:57 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+15/03/2023 11:07:34 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+15/03/2023 11:06:56 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+15/03/2023 10:09:40 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+15/03/2023 10:07:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+15/03/2023 10:07:20 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+15/03/2023 10:06:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+15/03/2023 9:11:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+15/03/2023 9:10:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+15/03/2023 9:09:43 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+15/03/2023 9:09:03 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+15/03/2023 9:01:47 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+15/03/2023 4:58:50 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+15/03/2023 3:07:55 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+15/03/2023 3:06:10 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+15/03/2023 3:05:47 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+15/03/2023 3:05:09 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+15/03/2023 2:10:08 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+15/03/2023 2:07:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+15/03/2023 2:07:29 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+15/03/2023 2:06:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+15/03/2023 1:08:10 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+15/03/2023 1:05:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+15/03/2023 1:05:28 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+15/03/2023 1:04:53 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+15/03/2023 12:09:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+15/03/2023 12:08:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+15/03/2023 12:07:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+15/03/2023 12:07:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+14/03/2023 11:04:43 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+14/03/2023 11:02:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+14/03/2023 11:02:14 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+14/03/2023 11:00:45 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+14/03/2023 10:08:48 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+14/03/2023 10:06:06 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+14/03/2023 10:04:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+14/03/2023 9:11:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+14/03/2023 9:09:22 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+14/03/2023 9:08:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+14/03/2023 9:08:15 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+14/03/2023 9:02:50 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+14/03/2023 4:57:12 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+14/03/2023 3:14:42 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+14/03/2023 3:14:21 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+14/03/2023 3:13:42 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+14/03/2023 2:10:40 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+14/03/2023 2:09:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+14/03/2023 2:08:40 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+14/03/2023 2:08:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+14/03/2023 12:18:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+14/03/2023 12:17:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+14/03/2023 12:16:41 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+14/03/2023 12:15:58 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+13/03/2023 11:17:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+13/03/2023 11:15:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+13/03/2023 11:14:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+13/03/2023 11:14:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+13/03/2023 10:18:31 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+13/03/2023 10:16:50 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+13/03/2023 10:16:27 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+13/03/2023 10:15:43 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+13/03/2023 9:13:21 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+13/03/2023 9:11:48 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+13/03/2023 9:11:29 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+13/03/2023 9:10:55 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+13/03/2023 9:06:04 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+13/03/2023 4:57:28 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+13/03/2023 4:08:44 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+13/03/2023 4:07:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+13/03/2023 4:06:44 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+13/03/2023 4:06:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+13/03/2023 2:11:03 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+13/03/2023 2:10:37 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+13/03/2023 2:09:32 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+13/03/2023 1:27:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+13/03/2023 1:25:15 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+13/03/2023 1:24:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+13/03/2023 1:24:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+13/03/2023 12:21:05 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+13/03/2023 12:19:03 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+13/03/2023 12:18:41 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+13/03/2023 12:18:02 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+12/03/2023 8:10:09 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+12/03/2023 8:08:22 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+12/03/2023 8:08:01 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+12/03/2023 8:07:22 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+12/03/2023 8:01:18 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+12/03/2023 5:15:29 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+12/03/2023 3:22:36 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+12/03/2023 3:22:11 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+12/03/2023 3:21:25 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+12/03/2023 2:04:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+12/03/2023 2:02:55 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+12/03/2023 2:02:35 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+12/03/2023 2:02:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+12/03/2023 1:05:09 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+12/03/2023 1:04:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+12/03/2023 1:04:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+12/03/2023 12:37:06 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+12/03/2023 12:36:10 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+12/03/2023 12:08:07 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+12/03/2023 12:07:44 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+12/03/2023 12:07:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+11/03/2023 10:13:04 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+11/03/2023 10:12:42 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+11/03/2023 10:12:00 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+11/03/2023 8:06:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+11/03/2023 8:06:23 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+11/03/2023 8:05:45 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+11/03/2023 8:00:29 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+11/03/2023 4:56:58 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+11/03/2023 4:09:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+11/03/2023 4:09:29 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+11/03/2023 4:08:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+11/03/2023 1:12:14 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+11/03/2023 1:09:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+11/03/2023 1:09:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+11/03/2023 1:08:53 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+10/03/2023 11:14:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+10/03/2023 11:14:32 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+10/03/2023 11:13:48 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+10/03/2023 10:09:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+10/03/2023 10:07:09 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+10/03/2023 10:06:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+10/03/2023 10:06:08 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+10/03/2023 9:14:48 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+10/03/2023 9:13:20 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+10/03/2023 9:13:02 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+10/03/2023 9:12:31 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+10/03/2023 9:08:29 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+10/03/2023 5:00:37 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+10/03/2023 3:14:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+10/03/2023 3:12:58 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+10/03/2023 3:12:40 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+10/03/2023 3:12:12 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+10/03/2023 2:07:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+10/03/2023 2:05:42 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+10/03/2023 2:05:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+10/03/2023 2:04:59 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+10/03/2023 1:12:51 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+10/03/2023 1:11:08 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+10/03/2023 1:10:51 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+10/03/2023 1:10:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+10/03/2023 12:17:07 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+10/03/2023 12:12:37 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+10/03/2023 12:12:19 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+10/03/2023 12:11:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+9/03/2023 11:07:45 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+9/03/2023 11:06:00 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+9/03/2023 11:05:43 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+9/03/2023 11:05:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+9/03/2023 10:05:26 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+9/03/2023 10:03:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+9/03/2023 10:03:06 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+9/03/2023 9:21:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+9/03/2023 9:19:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+9/03/2023 9:19:23 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+9/03/2023 9:18:43 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+9/03/2023 9:12:10 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+9/03/2023 4:59:39 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+9/03/2023 4:16:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+9/03/2023 4:14:43 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+9/03/2023 4:14:19 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+9/03/2023 4:13:42 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+9/03/2023 3:11:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+9/03/2023 3:10:23 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+9/03/2023 3:10:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+9/03/2023 3:09:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+9/03/2023 1:02:32 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+9/03/2023 1:01:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+9/03/2023 1:00:41 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+9/03/2023 1:00:08 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+9/03/2023 12:15:55 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+9/03/2023 12:13:59 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+9/03/2023 12:13:40 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+9/03/2023 12:13:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+8/03/2023 11:05:55 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+8/03/2023 11:05:36 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+8/03/2023 11:05:04 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+8/03/2023 11:03:46 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+8/03/2023 10:08:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+8/03/2023 10:06:58 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+8/03/2023 10:06:42 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+8/03/2023 10:06:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+8/03/2023 9:17:47 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+8/03/2023 9:16:04 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+8/03/2023 9:15:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+8/03/2023 9:14:44 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+8/03/2023 9:08:55 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+8/03/2023 4:59:42 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+8/03/2023 4:10:33 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+8/03/2023 4:08:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+8/03/2023 4:08:31 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+8/03/2023 4:07:55 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+8/03/2023 3:07:03 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+8/03/2023 3:05:36 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+8/03/2023 3:05:18 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+8/03/2023 3:04:48 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+8/03/2023 2:12:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+8/03/2023 2:08:27 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+8/03/2023 2:08:07 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+8/03/2023 2:07:33 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+8/03/2023 1:19:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+8/03/2023 1:18:24 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+8/03/2023 1:18:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+8/03/2023 1:17:27 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+8/03/2023 12:08:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+8/03/2023 12:06:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+8/03/2023 12:06:31 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+8/03/2023 12:06:02 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+7/03/2023 11:08:38 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+7/03/2023 11:07:06 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+7/03/2023 11:06:47 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+7/03/2023 11:06:16 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+7/03/2023 10:03:46 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+7/03/2023 10:02:14 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+7/03/2023 10:01:56 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+7/03/2023 10:01:26 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+7/03/2023 9:12:22 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+7/03/2023 9:10:47 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+7/03/2023 9:10:30 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+7/03/2023 9:09:51 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+7/03/2023 9:04:57 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+7/03/2023 2:07:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+7/03/2023 2:06:08 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+7/03/2023 2:04:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+7/03/2023 2:04:31 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+7/03/2023 12:19:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+7/03/2023 12:18:08 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+7/03/2023 12:17:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+7/03/2023 12:17:03 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+6/03/2023 11:00:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+6/03/2023 10:59:43 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+6/03/2023 10:59:00 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+6/03/2023 10:17:01 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+6/03/2023 10:16:41 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+6/03/2023 10:16:01 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+6/03/2023 9:20:16 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+6/03/2023 9:18:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+6/03/2023 9:18:12 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+6/03/2023 9:17:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+6/03/2023 9:11:50 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+6/03/2023 4:57:33 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+6/03/2023 3:21:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+6/03/2023 3:19:37 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+6/03/2023 3:19:14 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+6/03/2023 3:18:34 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+6/03/2023 1:08:15 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+6/03/2023 1:07:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+6/03/2023 1:06:40 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+6/03/2023 12:12:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+6/03/2023 12:11:32 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+6/03/2023 12:10:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+5/03/2023 11:53:29 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+5/03/2023 11:51:39 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+5/03/2023 11:51:18 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+5/03/2023 11:50:29 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+5/03/2023 9:17:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+5/03/2023 9:14:56 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+5/03/2023 9:14:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+5/03/2023 9:13:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+5/03/2023 8:18:18 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+5/03/2023 8:16:36 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+5/03/2023 8:16:15 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+5/03/2023 8:15:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+5/03/2023 8:08:15 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+5/03/2023 5:01:46 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+5/03/2023 4:29:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+5/03/2023 4:27:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+5/03/2023 4:27:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+5/03/2023 4:26:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+5/03/2023 1:24:55 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+5/03/2023 1:23:11 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+5/03/2023 1:22:50 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+5/03/2023 1:22:09 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+5/03/2023 1:03:56 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+4/03/2023 11:44:32 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+4/03/2023 11:44:08 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+4/03/2023 11:43:26 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+4/03/2023 9:21:32 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+4/03/2023 9:19:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+4/03/2023 9:19:12 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+4/03/2023 9:18:25 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+4/03/2023 8:19:56 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+4/03/2023 8:17:27 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+4/03/2023 8:17:07 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+4/03/2023 8:16:27 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+4/03/2023 8:10:52 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+4/03/2023 4:58:34 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+4/03/2023 3:26:07 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+4/03/2023 3:23:53 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+4/03/2023 3:23:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+4/03/2023 3:22:08 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+4/03/2023 2:21:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+4/03/2023 2:19:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+4/03/2023 2:18:34 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+4/03/2023 2:17:18 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+4/03/2023 1:17:58 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+4/03/2023 1:16:09 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+4/03/2023 1:15:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+4/03/2023 1:15:08 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+4/03/2023 12:25:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+4/03/2023 12:23:18 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+4/03/2023 12:22:55 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+4/03/2023 12:21:35 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+3/03/2023 11:13:04 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+3/03/2023 11:10:46 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+3/03/2023 11:10:25 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+3/03/2023 11:09:47 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+3/03/2023 10:15:52 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+3/03/2023 10:13:00 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+3/03/2023 10:12:32 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+3/03/2023 10:11:29 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+3/03/2023 9:11:08 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+3/03/2023 9:08:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+3/03/2023 9:08:22 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+3/03/2023 9:07:32 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+3/03/2023 8:59:53 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+3/03/2023 5:00:26 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+3/03/2023 4:17:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+3/03/2023 4:14:24 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+3/03/2023 4:13:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+3/03/2023 4:12:47 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+3/03/2023 3:15:43 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+3/03/2023 3:12:17 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+3/03/2023 3:11:47 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+3/03/2023 3:10:41 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+3/03/2023 2:12:44 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+3/03/2023 2:11:04 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+3/03/2023 2:10:43 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+3/03/2023 2:10:07 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+3/03/2023 1:13:10 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+3/03/2023 1:11:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+3/03/2023 1:10:44 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+3/03/2023 1:10:07 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+3/03/2023 12:11:26 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+3/03/2023 12:09:09 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+3/03/2023 12:08:48 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+3/03/2023 12:08:11 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+2/03/2023 11:16:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+2/03/2023 11:14:31 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+2/03/2023 11:14:05 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+2/03/2023 11:12:40 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+2/03/2023 10:12:01 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+2/03/2023 10:09:55 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+2/03/2023 10:09:29 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+2/03/2023 10:07:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+2/03/2023 9:11:33 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+2/03/2023 9:09:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+2/03/2023 9:09:34 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+2/03/2023 9:08:53 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+2/03/2023 9:03:15 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+2/03/2023 4:59:52 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+2/03/2023 4:21:12 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+2/03/2023 4:19:00 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+2/03/2023 4:18:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+2/03/2023 4:18:01 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+2/03/2023 3:07:19 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+2/03/2023 3:05:36 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+2/03/2023 3:05:15 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+2/03/2023 3:04:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+2/03/2023 2:23:38 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+2/03/2023 2:21:05 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+2/03/2023 2:20:44 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+2/03/2023 2:19:36 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+2/03/2023 1:06:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+2/03/2023 1:04:39 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+2/03/2023 1:04:14 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+2/03/2023 1:03:35 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+2/03/2023 12:06:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+2/03/2023 12:04:20 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+2/03/2023 12:03:53 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+2/03/2023 12:02:07 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/03/2023 11:04:29 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/03/2023 11:02:57 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/03/2023 11:02:38 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/03/2023 11:02:00 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/03/2023 10:13:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/03/2023 10:11:34 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/03/2023 10:11:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/03/2023 10:10:35 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/03/2023 9:18:13 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/03/2023 9:16:41 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/03/2023 9:16:20 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/03/2023 9:14:31 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/03/2023 9:08:34 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+1/03/2023 4:56:49 AM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.
+1/03/2023 4:19:34 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/03/2023 4:17:52 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/03/2023 4:17:29 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/03/2023 4:16:49 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/03/2023 3:25:06 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/03/2023 3:22:55 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/03/2023 3:22:31 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/03/2023 3:21:53 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/03/2023 2:11:20 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/03/2023 2:09:32 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/03/2023 2:09:10 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/03/2023 2:08:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/03/2023 1:09:27 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/03/2023 1:07:51 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/03/2023 1:07:30 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/03/2023 1:06:54 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+1/03/2023 12:10:36 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+1/03/2023 12:08:42 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+1/03/2023 12:08:22 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+1/03/2023 12:07:46 AM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/02/2023 11:06:30 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+28/02/2023 11:04:09 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/02/2023 11:03:48 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/02/2023 11:03:08 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/02/2023 10:06:37 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+28/02/2023 10:04:58 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/02/2023 10:04:36 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/02/2023 10:03:57 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/02/2023 9:11:29 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 27 Lvl 2 Courtyard Behind'. Reason: No access.
+28/02/2023 9:09:54 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 26 Lvl 1 Staff Entry'. Reason: No access.
+28/02/2023 9:09:33 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 20 L1 Double Glass Door A'. Reason: No access.
+28/02/2023 9:08:49 PM: Access denied to 'Security Guard15 Security Guard15' at 'Door 18 Level 2 Pedestrian Doo'. Reason: No access.
+28/02/2023 9:03:20 PM: Access granted to 'Security Guard15 Security Guard15' at 'Door 41 Front Gate'.

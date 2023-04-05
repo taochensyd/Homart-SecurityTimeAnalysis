@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Door Swipes Table</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h2>Access Data</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Date Time</th>
+        <th>Guard First Name</th>
+        <th>Guard Last Name</th>
+        <th>Door Number</th>
+        <th>Door Name</th>
+      </tr>
+    </thead>
+    <tbody id="access-table-body">
+    </tbody>
+  </table>
+
+  <h2>Swipe Data</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Timestamp</th>
+        <th>User</th>
+        <th>Location</th>
+        <th>Door Number</th>
+        <th>Reason</th>
+      </tr>
+    </thead>
+    <tbody id="swipe-table-body">
+    </tbody>
+  </table>
+
+  <script>
+    async function fetchCSVData(url) {
+      const response = await fetch(url);
+      const data = await response.text();
+      const rows = data.split('\n').slice(1);
+      return rows.map(row => row.split(','));
+    }
+
+    async function loadTableData() {
+      const accessData = await fetchCSVData('access.csv');
+      const swipeData = await fetchCSVData('swipe.csv');
+
+      const accessTableBody = document.getElementById('access-table-body');
+      accessData.forEach(rowData => {
+        const row = document.createElement('tr');
+        rowData.forEach(cellData => {
+          const cell = document.createElement('td');
+          cell.textContent = cellData.trim();
+          row.appendChild(cell);
+        });
+        accessTableBody.appendChild(row);
+      });
+
+      const swipeTableBody = document.getElementById('swipe-table-body');
+      swipeData.forEach(rowData => {
+        const row = document.createElement('tr');
+        rowData.forEach(cellData => {
+          const cell = document.createElement('td');
+          cell.textContent = cellData.trim();
+          row.appendChild(cell);
+        });
+        swipeTableBody.appendChild(row);
+      });
+    }
+
+    loadTableData();
+  </script>
+</body>
+</html>
